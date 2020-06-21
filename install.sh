@@ -1,0 +1,1 @@
+rsync -avP dotfiles/ $HOME
